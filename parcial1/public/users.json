@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "firstname":"Mario",
+        "secondname":"Hermoso",
+        "posts":870,
+        "followers":496,
+        "following":112
+    },
+    {
+        "id":2,
+        "firstname":"Moana",
+        "secondname":"Mawi",
+        "posts":6,
+        "followers":9233,
+        "following":1737
+    }
+]
