@@ -1,3 +1,28 @@
+.upside{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 0 3px 13px 1px black;
+}
+
+.upside-img{
+    border-radius: 50px;
+    height: 100%;
+    width: auto;
+}
+
+.upside-text{
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
 .downside{
     display: flex;
     flex-wrap: wrap;
@@ -5,19 +30,4 @@
     row-gap: 20px;
     justify-content: center;
     padding: 20px;
-}
-.card{
-    border-style:ridge;
-}
-
-.upside{
-    display: flex;
-    flex-direction: row; 
-    justify-content: flex-start; 
-    align-items: center; 
-    margin-left: 300px;
-}
-
-.img{
-    border-radius: 20px;
 }
